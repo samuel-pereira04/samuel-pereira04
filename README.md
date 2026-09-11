@@ -1,2 +1,2 @@
-<img src="./kk.gif" width="500" height="500">
+<img src="./kk.gif" width="350" height="350">
 
